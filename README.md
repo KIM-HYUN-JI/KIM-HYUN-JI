@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hyunji Kim
+
+Biomedical researcher and data analyst working at the intersection of pathology, transcriptomics, and spatial biology.
+
+## Research interests
+- Cancer transcriptomics
+- Spatial transcriptomics
+- Biomedical data analysis
+
+## Technical skills
+- R
+- Python
+- Linux
+- RStudio Server
+- JupyterLab
 
 <!--
 **KIM-HYUN-JI/KIM-HYUN-JI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
