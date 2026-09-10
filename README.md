@@ -13,7 +13,12 @@ Biomedical researcher and data analyst working at the intersection of pathology,
 - Linux
 - RStudio Server
 - JupyterLab
+- 
+### Certifications
 
+- Engineer Big Data Analysis (빅데이터분석기사)
+(R — primary language for biomedical and statistical analysis)
+(Python — data preprocessing, exploratory analysis, and machine learning)
 <!--
 **KIM-HYUN-JI/KIM-HYUN-JI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
